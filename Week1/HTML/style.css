@@ -1,0 +1,28 @@
+body {
+    font-family: 'Courier New';
+
+}
+a {
+    color: royalblue;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(90, 237, 158);
+}
+img{
+    border-radius: 10%;
+    border: 4px gold solid;
+}
+table tr:nth-child(even) {
+    background-color: orangered;
+}
+
+table tr:nth-child(odd) {
+    background-color: aquamarine;
+}
+ul{
+    list-style-type: none;
+}
+ol{
+    list-style-type: square;
+}
