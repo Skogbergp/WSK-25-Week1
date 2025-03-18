@@ -1,4 +1,4 @@
-var numbers = [1, 131, 231, 42, 53, 1, 54, 553, 3, 2];
+let numbers = [1, 131, 231, 42, 53, 1, 54, 553, 3, 2];
 
 console.log('unsorted: ' + numbers);
 
