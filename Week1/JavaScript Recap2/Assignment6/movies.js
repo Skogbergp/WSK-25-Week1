@@ -1,12 +1,12 @@
-var movies = [];
+let movies = [];
 
-var input = prompt('Enter the number of movies you want to add: ');
+let input = prompt('Enter the number of movies you want to add: ');
 
-for (var i = 0; i < input; i++) {
-  var movieName = prompt('Enter the movie name: ');
-  var rating = parseFloat(prompt('Enter the movie rating: '));
+for (let i = 0; i < input; i++) {
+  let movieName = prompt('Enter the movie name: ');
+  let rating = parseFloat(prompt('Enter the movie rating: '));
 
-  var movie = {
+  let movie = {
     name: movieName,
     rating: rating,
   };
