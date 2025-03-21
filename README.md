@@ -1,1 +1,1 @@
-https://users.metropolia.fi/~patrikns/WSK-25/
+https://users.metropolia.fi/~patrikns/WSK-25/Week1/
